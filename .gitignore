@@ -18,6 +18,9 @@
 *.cachefile
 *.gcno
 *.DotSettings.user
+*.user
+*.log
+
 
 # NuGet Packages
 packages/
