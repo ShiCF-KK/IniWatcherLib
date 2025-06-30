@@ -1,0 +1,58 @@
+# Binaries and Objects folders
+**/bin/*
+**/obj/*
+**/x64/*
+**/Release/*
+**/Debug/*
+
+# Visual Studio temporary files, build results, and caches
+.vs/
+*.suo
+*.userprefs
+*.vcxproj.user
+*.csproj.user
+*.vbproj.user
+*.fsproj.user
+*.dbmdl
+*.jfm
+*.cachefile
+*.gcno
+*.DotSettings.user
+
+# NuGet Packages
+packages/
+
+# Node.js Modules
+node_modules/
+
+# Build results of all kinds of projects
+*.apk
+*.ipa
+*.exe
+*.dll
+*.pdb
+*.tlog
+*.vsix
+*.build.rsp
+*_wpftmp.csproj
+*_wpftmp.vbproj
+*_wpftmp.fsproj
+
+# Visual Studio Solution User Options
+*.sln.docstates
+*.sln.docstates.suo
+*.sln.docstates.tlog
+
+# Test Results
+TestResults/
+_PublishedWebsites/
+[Bb]uilds/
+
+# Project-specific files (adjust as needed)
+# MyProject/SpecificFile.txt
+
+# macOS
+.DS_Store
+
+# Thumbnails
+Thumbs.db
